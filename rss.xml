@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[rippers]]></title>
         <description><![CDATA[rippers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rippers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 09:06:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 09:09:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rippers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Las mejores gafas de sol de madera</p>]]></description>
-            <link>undefinedc1e09b3c-d262-44b2-995f-301b0959ae5e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cefd9ed-e62b-4c32-8842-dbea3508ccf7.jpg">]]></description>
+            <link>https://thegrid.ai/rippers/c1e09b3c-d262-44b2-995f-301b0959ae5e/index.html</link>
             <guid isPermaLink="false">c1e09b3c-d262-44b2-995f-301b0959ae5e</guid>
-            <pubDate>Wed, 13 Apr 2016 09:06:20 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 09:09:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
