@@ -1,0 +1,28 @@
+name: rippers
+favicon: null
+layout_spectrum: 0.20662539452314377
+typography_spectrum: 0.35890565998852253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.05949503555893898
+  lightness: 0.7758962162770331
+  saturation: 0.38816494354978204
+  rhythmicContrast: 0.6134241267573088
+purpose: []
